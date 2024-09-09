@@ -1,17 +1,17 @@
 {
     "schedule": {
         "Monday": [
-            "",
-            "",
+            " Missing ",
+            " Missing ",
             "10-32: Chemistry 201",
             "10-32: Chemistry 201",
-            "",
-            "",
+            " Missing ",
+            " Missing ",
             "9-21: Chemistry 201"
         ],
         "Tuesday": [
             "9-21: Chemistry 201",
-            "",
+            " Missing ",
             "10-32 (Group 1): Chemistry 201",
             "10-32 (Group 2): Chemistry 201",
             "8-11: Chemistry 201"
@@ -21,16 +21,16 @@
             "9-23: Chemistry 201",
             "9-23: Chemistry 201",
             "9-21: Chemistry 201",
-            "",
+            " Missing ",
             "7-i: Chemistry 201"
         ],
         "Thursday": [
             "9-22: Chemistry 201",
             "9-22: Chemistry 201",
-            "",
-            "",
+            " Missing ",
+            " Missing ",
             "10-31: Chemistry 201",
-            "",
+            " Missing ",
             "7-i: Chemistry 201"
         ],
         "Friday": [
