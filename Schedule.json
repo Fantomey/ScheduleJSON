@@ -2,12 +2,12 @@
     "schedule": {
         "Monday": {
             "lessons": [
-                "1  Algebra",
-                "2  Algebra",
-                "3  Ukrainian Literature",
-                "4  Ukrainian Literature",
-                "5  World Literature",
-                "6  Geography"
+                "1Algebra",
+                "Algebra",
+                "Ukrainian Literature",
+                "Ukrainian Literature",
+                "World Literature",
+                "Geography"
             ]
         },
         "Tuesday": {
