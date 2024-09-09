@@ -1,0 +1,58 @@
+{
+    "schedule": {
+        "Monday": {
+            "lessons": [
+                "Algebra",
+                "Algebra",
+                "Ukrainian Literature",
+                "Ukrainian Literature",
+                "World Literature",
+                "Geography"
+            ]
+        },
+        "Tuesday": {
+            "lessons": [
+                "Algebra",
+                "Algebra",
+                "Physical Education",
+                "Physics",
+                "Physics",
+                "Computer Science",
+                "Ukrainian Language",
+                "Ukrainian Language"
+            ]
+        },
+        "Wednesday": {
+            "lessons": [
+                "Physical Education",
+                "Physical Education",
+                "English",
+                "Chemistry",
+                "Chemistry",
+                "Physics"
+            ]
+        },
+        "Thursday": {
+            "lessons": [
+                "Biology",
+                "Biology",
+                "History of Ukraine",
+                "History of Ukraine",
+                "Technology",
+                "Technology",
+                "English",
+                "English"
+            ]
+        },
+        "Friday": {
+            "lessons": [
+                "Geometry",
+                "Geometry",
+                "German",
+                "Physics",
+                "Physics",
+                "World History"
+            ]
+        }
+    }
+}
