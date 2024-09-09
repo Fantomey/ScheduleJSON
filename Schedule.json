@@ -1,58 +1,58 @@
 {
-    "schedule": {
-        "Monday": {
-            "lessons": [
-                "Algebra",
-                "Algebra",
-                "Ukrainian Literature",
-                "Ukrainian Literature",
-                "World Literature",
-                "Geography"
-            ]
-        },
-        "Tuesday": {
-            "lessons": [
-                "Algebra",
-                "Algebra",
-                "Physical Education",
-                "Physics",
-                "Physics",
-                "Computer Science",
-                "Ukrainian Language",
-                "Ukrainian Language"
-            ]
-        },
-        "Wednesday": {
-            "lessons": [
-                "Physical Education",
-                "Physical Education",
-                "English",
-                "Chemistry",
-                "Chemistry",
-                "Physics"
-            ]
-        },
-        "Thursday": {
-            "lessons": [
-                "Biology",
-                "Biology",
-                "History of Ukraine",
-                "History of Ukraine",
-                "Technology",
-                "Technology",
-                "English",
-                "English"
-            ]
-        },
-        "Friday": {
-            "lessons": [
-                "Geometry",
-                "Geometry",
-                "German",
-                "Physics",
-                "Physics",
-                "World History"
-            ]
-        }
+  "schedule": {
+    "Monday": {
+      "lessons": [
+        "Algebra 208",
+        "Algebra 208",
+        "Ukrainian Literature 207",
+        "Ukrainian Literature 207",
+        "World Literature 203",
+        "Geography 308"
+      ]
+    },
+    "Tuesday": {
+      "lessons": [
+        "Algebra 208",
+        "Algebra 208",
+        "Physical Education 103",
+        "Physics 106",
+        "Physics 106",
+        "Computer Science 202",
+        "Ukrainian Language 205",
+        "Ukrainian Language 205"
+      ]
+    },
+    "Wednesday": {
+      "lessons": [
+        "Physical Education 103",
+        "Physical Education 103",
+        "English 109",
+        "Chemistry 108",
+        "Chemistry 108",
+        "Physics 207"
+      ]
+    },
+    "Thursday": {
+      "lessons": [
+        "Biology 205",
+        "Biology 205",
+        "History of Ukraine 105",
+        "History of Ukraine 105",
+        "Technology 106",
+        "Technology 106",
+        "English 303",
+        "English 303"
+      ]
+    },
+    "Friday": {
+      "lessons": [
+        "Geometry 208",
+        "Geometry 208",
+        "German 204",
+        "Physics 207",
+        "Physics 207",
+        "World History 105"
+      ]
     }
+  }
 }
