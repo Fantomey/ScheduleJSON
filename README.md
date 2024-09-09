@@ -1,5 +1,7 @@
 # Schedule App
 
+A React application for managing and displaying schedules for students and teachers. This project demonstrates how to create a dynamic schedule viewer with React and Vite.
+
 ### 🚀 Live Version
 
 You can check out the live version of the Schedule App here:
@@ -7,10 +9,6 @@ You can check out the live version of the Schedule App here:
 **[👉 Live Demo](https://fantomey.github.io/ScheduleJSON/)**
 
 This live demo allows you to explore the full functionality of the application, including switching between student and teacher schedules. Feel free to interact with the schedules, change days, and see how the data updates in real time.
-
-
-
-A React application for managing and displaying schedules for students and teachers. This project demonstrates how to create a dynamic schedule viewer with React and Vite.
 
 
 ### Customizing the Schedule
